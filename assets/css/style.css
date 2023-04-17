@@ -1,0 +1,19 @@
+body{
+    font-family: 'Roboto';
+}
+
+.logo-blanco{
+    width: 11rem;
+}
+
+.logo-negro{
+    width: 13rem;
+}
+
+.grey{
+    color: #707070
+}
+
+.black{
+    color: #212529;
+}
